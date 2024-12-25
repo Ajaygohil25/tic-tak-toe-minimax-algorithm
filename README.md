@@ -28,3 +28,9 @@ The Minimax algorithm evaluates all possible moves to determine the best outcome
 Contributions are welcome! If you'd like to improve the game or add new features, feel free to submit a pull request.
 
 Happy Gaming! 🎮
+Preview:
+![Screenshot from 2024-12-25 14-51-02](https://github.com/user-attachments/assets/4e2940da-bfa8-4833-82e0-804d25d043b8)
+
+![Screenshot from 2024-12-25 14-49-03](https://github.com/user-attachments/assets/18479c4f-1417-489d-b250-06215df88847)
+
+
